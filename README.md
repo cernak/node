@@ -300,6 +300,8 @@ For information about the governance of the Node.js project, see
   **Ruben Bridgewater** <<ruben@bridgewater.de>> (he/him)
 * [bzoz](https://github.com/bzoz) -
   **Bartosz Sosnowski** <<bartosz@janeasystems.com>>
+* [cernak](https://github.com/cernak) -
+  **Nick Cernak** <<nick@nickcernak.com>> (he/him)
 * [cclauss](https://github.com/cclauss) -
   **Christian Clauss** <<cclauss@me.com>> (he/him)
 * [ChALkeR](https://github.com/ChALkeR) -
@@ -634,6 +636,7 @@ For information about the governance of the Node.js project, see
   **Yihong Wang** <<yh.wang@ibm.com>>
 * [yorkie](https://github.com/yorkie) -
   **Yorkie Liu** <<yorkiefixer@gmail.com>>
+  
 
 </details>
 
