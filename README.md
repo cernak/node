@@ -301,7 +301,7 @@ For information about the governance of the Node.js project, see
 * [bzoz](https://github.com/bzoz) -
   **Bartosz Sosnowski** <<bartosz@janeasystems.com>>
 * [cernak](https://github.com/cernak) -
-  **Nick Cernak** <<nick@nickcernak.com>> (he/him)
+  **Nick Cernak** <<ncernak@gmail.com>> (he/him)
 * [cclauss](https://github.com/cclauss) -
   **Christian Clauss** <<cclauss@me.com>> (he/him)
 * [ChALkeR](https://github.com/ChALkeR) -
